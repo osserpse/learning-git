@@ -5,4 +5,4 @@ Playground when learning git
 
 More text
 
-Will be a conflict
+Will be a conflict, not
